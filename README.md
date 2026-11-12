@@ -54,7 +54,7 @@ student-management-api/
 ### 1. Clone the repository
 
 ```bash
-git [clone YOUR_GITHUB_REPOSITORY_URL](https://github.com/alemuneima4-oss/student-management-api/blob/main/README.md)
+git clone https://github.com/alemuneima4-oss/student-management-api.git
 ```
 
 ### 2. Navigate into the project
